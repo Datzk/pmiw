@@ -1,3 +1,10 @@
+/*
+Nombre y Apellido: Martiniano Santarelli
+Comisión 3
+TP 1
+2026
+*/
+
 let casa;
 
 //musica y sonidos
